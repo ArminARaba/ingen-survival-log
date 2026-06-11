@@ -21,7 +21,7 @@ The InGen Survival Log is a lightweight, non-intrusive companion tool designed f
 
 ## 📥 Downloads & Latest Release
 
-You can find the latest version of the software in the **[Releases section](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/releases/latest)**. 
+You can find the latest version of the software in the **[Releases section](https://github.com/ArminARaba/ingen-survival-log/releases/latest)**. 
 
 *Always make sure to download the latest setup file to ensure compatibility.*
 
@@ -35,7 +35,7 @@ For a complete guide on how to configure your overlay, a full list of keyboard s
 
 ## 🚀 Quick Start Guide
 
-1. **Installation:** Download the latest installer from the [Releases page](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/releases/latest).
+1. **Installation:** Download the latest installer from the [Releases page](https://github.com/ArminARaba/ingen-survival-log/releases/latest).
 2. **Launch:** Run the software (if playing in full-screen, run as Administrator).
 3. **Authentication:** A large window will open. Log into your Bosch Island account, and **click on the "Map Tracker" menu tab.**
 4. **Link:** Spawn into the map with your deino. Once the Map Tracker page loads, the overlay will automatically link and turn **ONLINE**.
