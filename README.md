@@ -18,7 +18,7 @@ The InGen Survival Log is a lightweight, non-intrusive companion tool designed f
 * **Streamer Mode:** Conceal sensitive information instantly to protect against stream-snipers.
 * **Tactical Dialogs:** Manage death and spawn events with simple keyboard shortcuts.
 
-### [HUD Preview (picture)](https://www.twitch.tv/videos/2788680060?t=00h33m00s)
+### [HUD Preview (video)](https://www.twitch.tv/videos/2788680060?t=00h33m00s)
 
 ---
 
