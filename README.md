@@ -11,7 +11,7 @@ Welcome to the **InGen Survival Log**! This is a overlay and telemetry tracker b
 
 The InGen Survival Log is a lightweight, non-intrusive companion tool designed for survivors. It provides a real-time map, path tracking, and survival analytics directly on your desktop, allowing you to stay focused on the game while keeping track of your stats.
 
-### Core Features
+### Core features
 * **Real-time Telemetry:** Track your survival time, current sector, and connection status.
 * **Dynamic Path Tracking:** Automatically maps your journey on the island.
 * **Streamer Mode:** Conceal sensitive information instantly to protect against stream-snipers.
@@ -19,7 +19,7 @@ The InGen Survival Log is a lightweight, non-intrusive companion tool designed f
 
 ---
 
-## 📥 Downloads & Latest Release
+## 📥 Downloads & Latest release
 
 You can find the latest version of the software in the **[Releases section](https://github.com/ArminARaba/ingen-survival-log/releases/latest)**. 
 
@@ -27,13 +27,13 @@ You can find the latest version of the software in the **[Releases section](http
 
 ---
 
-## 📖 User Manual & Documentation
+## 📖 User manual & Documentation
 
 For a complete guide on how to configure your overlay, a full list of keyboard shortcuts, and troubleshooting steps, please refer to the **[MANUAL.txt](https://github.com/ArminARaba/ingen-survival-log/releases/download/v1.0.0-beta/MANUAL.txt)** file included in the release or available in this repository. 
 
 ---
 
-## 🚀 Quick Start Guide
+## 🚀 Quick start guide
 
 1. **Installation:** Download the latest installer from the [Releases page](https://github.com/ArminARaba/ingen-survival-log/releases/latest).
 2. **Launch:** Run the software (if playing in full-screen, run as Administrator).
