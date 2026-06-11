@@ -46,4 +46,16 @@ For a complete guide on how to configure your overlay, a full list of keyboard s
 
 ---
 
-*Stay safe out there on the Island!*
+### 💬 Join the community & help shape the future
+I’m building this tool for the Bosch Island players, and your input is what makes it better! Since the **InGen Survival Log** is still in its early stages, your feedback is invaluable.
+
+**How you can contribute:**
+* **Report bugs:** Encountered a glitch or a crash? Let me know so I can squash it!
+* **Feature requests:** Have a "dream feature" that would make your survival session easier? Share your ideas!
+* **Community:** Connect with other survivors, share tips, and get the latest updates.
+
+👉 **[Join the InGen Survival Log Discord Server](https://discord.gg/AJWRb49bV7)**
+
+Let's build the ultimate companion tool together. I look forward to hearing your thoughts!
+
+*Stay safe out there on the Isle!*
