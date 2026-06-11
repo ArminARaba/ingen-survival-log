@@ -4,6 +4,11 @@ Welcome to the **InGen Survival Log**! This is a overlay and telemetry tracker b
 
 ![InGen Survival Log](https://img.shields.io/badge/Status-Beta-amber)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+[![Hits](https://visitor-badge.laobi.icu/badge?page_id=ArminARaba.ingen-survival-log)](https://github.com/ArminARaba/ingen-survival-log)
+
+
+---
+# Itt kezdődhet a projekted leírása...
 
 ---
 
