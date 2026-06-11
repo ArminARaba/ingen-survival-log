@@ -54,8 +54,9 @@ I’m building this tool for the Bosch Island players, and your input is what ma
 * **Feature requests:** Have a "dream feature" that would make your survival session easier? Share your ideas!
 * **Community:** Connect with other survivors, share tips, and get the latest updates.
 
-👉 **[Join the InGen Survival Log Discord Server](https://discord.gg/AJWRb49bV7)**
+👉 **[Join my Discord Server](https://discord.gg/AJWRb49bV7)**
 
 Let's build the ultimate companion tool together. I look forward to hearing your thoughts!
 
 *Stay safe out there on the Isle!*
+*— Swedric*
